@@ -19,7 +19,7 @@ Jinja2
 joblib==1.3.2
 kiwisolver
 MarkupSafe
-matplotlib==3.8.0
+matplotlib
 numpy==1.25.2
 orjson
 packaging
