@@ -3,7 +3,7 @@ anyio==3.7.1
 certifi==2023.7.22
 click==8.1.6
 colorama==0.4.6
-colorama
+contourpy
 cycler
 dnspython
 email-validator
