@@ -28,6 +28,6 @@ Built an API using python<br>
 Built a front-end interface for easy dignosis of potential patients<br>
 Deployed entire project to the public domain<br>
 More detailed analysis with accomanying visuals can be accessed from the following link below:<br>
-<a href="https://github.com/fredie7/diabetes_diagnostics_api/blob/main/Untitled.ipynb">https://github.com/fredie7/diabetes_diagnostics_api/blob/main/Untitled.ipynb</a>
+<a href="https://github.com/fredie7/diabetes_diagnostics_api/blob/main/Untitled.ipynb">https://github.com/fredie7/diabetes_diagnostics_api/blob/main/Untitled.ipynb</a><br>
 Access the front end interface using the link below:<br>
 <a href="https://master--majestic-chimera-35e6a4.netlify.app/">https://master--majestic-chimera-35e6a4.netlify.app/</a>
