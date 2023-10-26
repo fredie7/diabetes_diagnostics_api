@@ -4,8 +4,8 @@
 
 Below is a step-wise treatise on how a tactful feature engineering was carried out before relevant columns were selected such as age,urea level,creatinine ratio,cholesterol level,low density lipoprotein and body mass index:
 
-*Imported dependencies
-*Imported dataset
+*Imported dependencies<br>
+*Imported dataset<br>
 *Visualized the first 5 rows to have an idea of the inherent features and inputs
 *Generated an informative overview of the columns as well as data types
 *Plotted a statistical analytics of the dataset
@@ -29,5 +29,5 @@ Below is a step-wise treatise on how a tactful feature engineering was carried o
 *Deployed entire project to the public domain
 *More detailed analysis with accomanying visuals can be accessed from the following link below:
 <a href="https://github.com/fredie7/diabetes_diagnostics_api/blob/main/Untitled.ipynb">https://github.com/fredie7/diabetes_diagnostics_api/blob/main/Untitled.ipynb</a>
-*Access the front end interface using the link below:
+Access the front end interface using the link below:
 <a href="https://master--majestic-chimera-35e6a4.netlify.app/">https://master--majestic-chimera-35e6a4.netlify.app/</a>
