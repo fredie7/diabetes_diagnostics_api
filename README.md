@@ -1,6 +1,8 @@
-# A Diabetes Diagonistic App Implemented Using Decision Tree Classifier.
+# A Diabetes Diagonistic App Implemented Using Decision Tree Classifier which accurately predicts the diabetic status of patients with regards to being diabetic, non-diabetic nor predicted-diabetic.
 
 ## This made use of a collection of data obtained from the laboratory of Medical City Hospital  and the Specialist Center for Endocrinology and Diabetes, Al-Kindy Teaching Hospital,Iraq.<hr>
+
+## Also features an integration of the model with an API, using python, as well as a front end interface to ease user experience.
 
 Below is a step-wise treatise on how a tactful feature engineering was carried out before relevant columns were selected such as age,urea level,creatinine ratio,cholesterol level,low density lipoprotein and body mass index:
 
@@ -27,7 +29,7 @@ Saved the model<br>
 Built an API using python<br>
 Built a front-end interface for easy dignosis of potential patients<br>
 Deployed entire project to the public domain<br>
-More detailed analysis with accomanying visuals can be accessed from the following link below:<br>
+More detailed analysis with accompanying visuals can be accessed from the following link below:<br>
 <a href="https://github.com/fredie7/diabetes_diagnostics_api/blob/main/Untitled.ipynb">https://github.com/fredie7/diabetes_diagnostics_api/blob/main/Untitled.ipynb</a><br>
 Access the front end interface using the link below:<br>
 <a href="https://master--majestic-chimera-35e6a4.netlify.app/">https://master--majestic-chimera-35e6a4.netlify.app/</a>
