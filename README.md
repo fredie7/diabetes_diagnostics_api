@@ -1,6 +1,6 @@
 # A Diabetes Diagonistic App Implemented Using Decision Tree Classifier which accurately predicts the diabetic status of patients with regards to being diabetic, non-diabetic nor predicted-diabetic.
 
-## This made use of a collection of data obtained from the laboratory of Medical City Hospital  and the Specialist Center for Endocrinology and Diabetes, Al-Kindy Teaching Hospital,Iraq.<hr>
+<!--## This made use of a collection of data obtained from the laboratory of Medical City Hospital  and the Specialist Center for Endocrinology and Diabetes, Al-Kindy Teaching Hospital,Iraq.<hr>-->
 
 ## Also features an integration of the model with an API, using python, as well as a front end interface to ease user experience.
 
