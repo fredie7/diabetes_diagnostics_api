@@ -2,7 +2,7 @@
 
 ## This made use of a collection of data obtained from the laboratory of Medical City Hospital  and the Specialist Center for Endocrinology and Diabetes, Al-Kindy Teaching Hospital,Iraq.<hr>
 
-## Also features an integration of the model with an API, using python, as well as a front end interface to ease user experience.
+## Also in the mix is an integration of the model with an API, using python, as well as a front end interface to ease user experience.
 
 Below is a step-wise treatise on how a tactful feature engineering was carried out before relevant columns were selected such as age,urea level,creatinine ratio,cholesterol level,low density lipoprotein and body mass index:
 
